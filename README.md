@@ -49,6 +49,8 @@ I will be researching to be able to create a data frame that will be created fro
 
 ## References
 
+ - https://www.python.org/
+ - https://www.anaconda.com/distribution/
  - http://worldpopulationreview.com/countries/ireland-population/
  - https://www.glamour.com/story/a-gender-gap-at-the-gym-is-keeping-women-from-working-out
  - https://www.forbes.com/sites/benmidgley/2018/09/26/the-six-reasons-the-fitness-industry-is-booming/#2cf0c1aa506d
